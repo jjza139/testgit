@@ -1,3 +1,3 @@
 
 compile:
-	ls
+	ls -1
